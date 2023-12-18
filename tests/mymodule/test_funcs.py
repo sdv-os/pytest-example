@@ -14,7 +14,7 @@ def test_subtract():
 
 @pytest.mark.difficult_operation
 def test_multiply():
-    assert multiply(4, 5) == 15
+    assert multiply(4, 5) == 20
 
 @pytest.mark.difficult_operation
 def test_divide():
